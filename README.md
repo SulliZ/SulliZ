@@ -16,12 +16,16 @@
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/39a06eed-35f8-4877-8104-0f7c027dd4de/linked_in_profile?trk=public_profile_see-credential)
 
-<h2>Currently working on</h2>
+<h2>Currently working on:</h2>
 - Completing Cyber Security SOC Level 1 course on TryHackMe.com
   Consists of the following:
+  
 - Monitor and investigate alerts (most of the time, it's a 24x7 SOC operations environment)
+  
 - Configure and manage security tools
+  
 - Develop and implement IDS signatures
+  
 - Escalate the security incidents to the Tier 2 and Team Lead if needed
 
 <h2> 🤳 Connect with me:</h2>
