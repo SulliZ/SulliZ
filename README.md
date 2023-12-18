@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Penetration Testing a pfSense Firewall](https://github.com/SulliZ/Penetration-Test-pfSense-Firewall-)
-  - 
+- [Configuring Custom Firewall Rules - pfSense](https://github.com/SulliZ/Customizing-Firewall-Rules) 
 
 <h2> My Certifications</h2>
 
