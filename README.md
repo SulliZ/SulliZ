@@ -4,7 +4,8 @@
 
 - [Penetration Testing a pfSense Firewall](https://github.com/SulliZ/Penetration-Test-pfSense-Firewall-)
 - [Configuring Custom Firewall Rules - pfSense](https://github.com/SulliZ/Customizing-Firewall-Rules)
-- [Secure Network Topology Design](https://github.com/SulliZ/Secure-Network-Topology-Design/tree/main) 
+- [Secure Network Topology Design](https://github.com/SulliZ/Secure-Network-Topology-Design/tree/main)
+- [Penetration Testing Report](https://github.com/SulliZ/Penetration-Testing-Report/tree/main) 
 
 <h2> My Certifications</h2>
 
