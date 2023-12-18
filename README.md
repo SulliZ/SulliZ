@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Penetration Testing a pfSense Firewall(https://github.com/SulliZ/Penetration-Test-pfSense-Firewall-)</b>
+- [Penetration Testing a pfSense Firewall](https://github.com/SulliZ/Penetration-Test-pfSense-Firewall-)
   - 
 
 <h2> My Certifications</h2>
