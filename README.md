@@ -8,7 +8,7 @@
 - [Penetration Testing Report](https://github.com/SulliZ/Penetration-Testing-Report/tree/main)
 - [Configuring Windows Defender Firewall](https://github.com/SulliZ/Configuring-Windows-Defender-Firewall)  
 
-<h2> My Certifications</h2>
+<h2> My Certifications:</h2>
 
 - [CompTIA Security + CE](https://credly.com/badges/b2c05f80-6bf9-4741-bf1b-e32e2ead6c6b/linked_in_profile?trk=public_profile_see-credential) 
 
