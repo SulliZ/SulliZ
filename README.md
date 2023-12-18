@@ -6,7 +6,8 @@
 - [Configuring Custom Firewall Rules - pfSense](https://github.com/SulliZ/Customizing-Firewall-Rules)
 - [Secure Network Topology Design](https://github.com/SulliZ/Secure-Network-Topology-Design/tree/main)
 - [Penetration Testing Report](https://github.com/SulliZ/Penetration-Testing-Report/tree/main)
-- [Configuring Windows Defender Firewall](https://github.com/SulliZ/Configuring-Windows-Defender-Firewall)  
+- [Configuring Windows Defender Firewall](https://github.com/SulliZ/Configuring-Windows-Defender-Firewall)
+- [Digital Forensics Project](https://github.com/SulliZ/Digital-Forensics-Project/tree/main) 
 
 <h2> My Certifications:</h2>
 
