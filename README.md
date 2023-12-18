@@ -14,7 +14,9 @@
 
 - [CompTIA Security + CE](https://credly.com/badges/b2c05f80-6bf9-4741-bf1b-e32e2ead6c6b/linked_in_profile?trk=public_profile_see-credential) 
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/39a06eed-35f8-4877-8104-0f7c027dd4de/linked_in_profile?trk=public_profile_see-credential) 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/39a06eed-35f8-4877-8104-0f7c027dd4de/linked_in_profile?trk=public_profile_see-credential)
+
+- Currently completing Cyber Security SOC Level 1 course on TryHackMe.com 
 
 <h2> 🤳 Connect with me:</h2>
 
